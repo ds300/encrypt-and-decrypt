@@ -1,10 +1,10 @@
 {
-  "name": "encrypt-decrypt",
+  "name": "encrypt-and-decrypt",
   "version": "1.0.0",
   "author": "David Sheldrick <d.j.sheldrick@gmail.com>",
   "license": "MIT",
   "description": "CLI tools to encrypt and decrypt all the files in a dir",
-  "repository": "https://github.com/ds300/encrypt-decrypt",
+  "repository": "https://github.com/ds300/encrypt-and-decrypt",
   "bin": {
     "encrypt": "./dist/encrypt.js",
     "decrypt": "./dist/decrypt.js"

@@ -1,11 +1,11 @@
-# encrypt-decrypt
+# encrypt-and-decrypt
 
 Encrypts and decrypts all the files in a given folder.
 
 ## Usage
 
 ```
-➜  my-secret-files $ npm i -g encrypt-decrypt
+➜  my-secret-files $ npm i -g encrypt-and-decrypt
 
 ➜  my-secret-files $ tree
 .
