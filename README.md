@@ -42,6 +42,7 @@ all done
     └── president-recording.wav
 
 2 directories, 3 files
+```
 
 ## License
 
